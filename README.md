@@ -6,4 +6,3 @@ a) cd .docker
 b) docker-compose up -d
 3. or php artisan serve
 4. Open the browser and go to http://localhost:8000 or http://localhost:8031 on docker
-
